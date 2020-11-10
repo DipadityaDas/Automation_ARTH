@@ -36,7 +36,7 @@ def main():
 		clear()
 		color(7)
 		print('\n\t\t\t    Main Menu')
-		print('\t\t==================================\n')
+		print('\t\t' + 20*"=" +'\n')
 		print("""
     [1] Hadoop 
     [2] Docker 
